@@ -1,0 +1,43 @@
+.box {
+    border: 2px solid #ddd;  
+    border-radius: 8px; 
+    padding: 20px;  
+    margin: 20px auto;   
+    max-width: 700px;
+    height: 750px;  
+    background-color: rgb(58, 149, 241);
+}
+
+.boxin {
+    padding: 20px;  
+    height: 600px; 
+    margin-bottom: 20px; 
+    background-color: whitesmoke;
+}
+
+.bottom {
+    border-top: 2px solid #ddd;  
+    padding-top: 5px;  
+}
+.pcolor{
+    color: white;
+    line-height: 3px;
+}
+.leftdot{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(58, 149, 241);
+   position: relative;
+   right: 5%;
+   top: 13.5%;
+   border-radius: 50%;
+}
+.rightdot{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(58, 149, 241);
+   position: relative;
+   left: 100%;
+   top: 8.1%;
+   border-radius: 50%;
+}
